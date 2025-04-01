@@ -23,3 +23,12 @@ c = 0  # 初始化變數c為0
 for i in range(1, 101):  
     c += i  # 將每個數字加到c上
 print(c)  # 輸出
+
+print ('Hello handgon')
+name = "Karen"
+age = 12
+print(name, age)
+x, y, z = 1, 2, 3
+print(x, y, z)
+a=b=c=10
+print(a,b,c)
